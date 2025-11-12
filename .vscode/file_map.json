@@ -1,0 +1,33 @@
+{
+  "custom_map_widget.dart": {
+    "old_identifier_name": "CustomMapWidget",
+    "new_identifier_name": "CustomMapWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "14e76db3ac8f574e78d581d1cc5c358b80e81dc2f99e08920b69947e4ddf5958",
+    "original_checksum": "8b17cab2122c44320dc876a823c6c211d48dd335e01e66f081e4cdc134c99d1a"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08",
+    "original_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "a4f2c46a1462fb6a7ae861516752aa6f29251c6f91fe746deecee353e924162b",
+    "original_checksum": "8d3bf7e2278bc99021caf9d4f8ed829c73084610e78c449f706a68f9f6a0fae2"
+  },
+  "adicionar_lat_long_atual_na_estrutura.dart": {
+    "old_identifier_name": "adicionarLatLongAtualNaEstrutura",
+    "new_identifier_name": "adicionarLatLongAtualNaEstrutura",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "106b2104cfda51f529cd4aa8658733b873c10ae86502188b6ca6383bf2d47783"
+  }
+}

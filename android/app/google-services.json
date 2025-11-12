@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943223771904",
+    "firebase_url": "https://bairro-forte-default-rtdb.firebaseio.com",
+    "project_id": "bairro-forte",
+    "storage_bucket": "bairro-forte.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943223771904:android:3280a2c86300916c03d9e5",
+        "android_client_info": {
+          "package_name": "com.vigilantis.bairroforte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943223771904-i2me223tjrsgo6jl47rm53eqfvrogtps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vigilantis.bairroforte",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "943223771904-9a6jqpa5ee0gr3bbfl3cuvb526mt8j01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "<current_api_key>"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943223771904-9a6jqpa5ee0gr3bbfl3cuvb526mt8j01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943223771904-i6a44a8l5r3gturl55vu3ovtvb98ojqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vigilantis.bairroforte"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
