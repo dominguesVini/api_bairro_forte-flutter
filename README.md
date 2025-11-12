@@ -25,7 +25,7 @@ vamos encontrar a linha abaixo dentro do arquivo, proximo a linha 18-20:
 
   substituimos o valor de value pela variavel encaminhada nas instruções
 
-  Em `lib/backend/api_calls.dart` pode procurar por `<twilio token>`
+  Em `lib/backend/api_requests/api_calls.dart` pode procurar por `<twilio token>`
   procuramos por `<account_sid>`
   procuramos por `<service_sid>`
 
