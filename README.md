@@ -35,7 +35,6 @@ vamos encontrar a linha abaixo dentro do arquivo, proximo a linha 18-20:
 
   Em `android/app/google-services.json` procuramos `<current_api_key>`e substituimos.
   Em `firebase/functions/index.js` procuramos `<user_key_onje_signal>`e `<one_signal_api>` e substituimos.
-  Em `web/index.html` procuramos `<web_api>`e substituimos.
   Em `lib/backend/firebase/firebase_config.dart` procuramos `<firebase_api_key>`e substituimos.
 
 
